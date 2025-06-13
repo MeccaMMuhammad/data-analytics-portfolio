@@ -46,7 +46,7 @@ Focus: KPI tracking, data modeling, slicers, dashboard layout
 - Added KPIs, line chart, bar chart, map, and filters
 - Used Power Query for data cleaning and modeling
 
-🔗 [View Project Folder](./powerbi-sales-dashboard)
+🔗 [View Project Folder](https://github.com/MeccaMMuhammad/data-analytics-portfolio/tree/main/powerbi-sales-dashboard)
 
 ---
 
