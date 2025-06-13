@@ -22,7 +22,7 @@ Focus: Interactive data visualization, filter actions, storytelling
 - Built line charts, bar charts, and geo maps
 - Added filters and dashboard actions for interactivity
 
-🔗 [View Project Folder](./tableau-ecommerce-dashboard)
+🔗 [View Project Folder]([./tableau-ecommerce-dashboard](https://github.com/MeccaMMuhammad/data-analytics-portfolio/tree/main/tableau-customer-dashboard))
 
 ---
 
