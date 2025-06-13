@@ -34,14 +34,20 @@ Use SQL to answer:
 - `CTE` used to summarize and segment customer engagement
 - Joins across all 3 tables to bring the data together
 
-📂 Files
+📁 Files
 
-- `sql_customers.csv`
-- `sql_campaigns.csv`
-- `sql_emails_sent.csv`
-- `SQL_queries.sql`
-- `campaign_summary.csv`
-- `engagement_segments.csv`
+| File Name                      | Description                                                |
+|-------------------------------|------------------------------------------------------------|
+| `sql_customers.csv`           | Raw data of customer IDs, names, and emails               |
+| `sql_campaigns.csv`           | Campaign info with names and date ranges                  |
+| `sql_emails_sent.csv`         | Raw dataset of email activity (opened, clicked, purchased)|
+| `total_emails_sent_output.csv`| Query result: Total emails sent per campaign              |
+| `open_rate_output.csv`        | Query result: Email open rates per campaign               |
+| `click_conversion_rate_output.csv` | Query result: Click-through and conversion rates      |
+| `engagement_segments.csv`     | Segmented customer behavior based on engagement           |
+| `SQL_queries.sql`             | All analysis queries used in this project                 |
+| `Create_Table_Queries.sql`    | SQL script to create all necessary tables                 |
+| `README.md`                   | Project overview and documentation   
 
  🧰 Tools Used
 
