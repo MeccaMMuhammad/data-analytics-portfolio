@@ -1,0 +1,11 @@
+OrderID,CustomerID,OrderDate,City,ProductCategory,Quantity,Price
+1,C001,2023-01-31,New York,Electronics,2,500
+2,C002,2023-02-28,Los Angeles,Clothing,3,50
+3,C003,2023-03-31,Chicago,Clothing,1,60
+4,C004,2023-04-30,Houston,Electronics,5,200
+5,C005,2023-05-31,Phoenix,Home,2,300
+6,C006,2023-06-30,Seattle,Home,4,250
+7,C007,2023-07-31,Miami,Clothing,2,45
+8,C008,2023-08-31,Boston,Electronics,1,600
+9,C009,2023-09-30,Denver,Home,3,120
+10,C010,2023-10-31,Atlanta,Clothing,2,80
