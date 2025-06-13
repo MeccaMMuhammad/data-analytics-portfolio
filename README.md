@@ -34,7 +34,7 @@ Focus: SQL querying, joins, segmentation, marketing analytics
 - Segmented customer engagement into 4 behavior groups
 - Used CTEs, joins, and conditional logic
 
-🔗 [View Project Folder](./sql-campaign-analysis)
+🔗 [View Project Folder](https://github.com/MeccaMMuhammad/data-analytics-portfolio/tree/main/sql-campaign-analysis)
 
 ---
 
