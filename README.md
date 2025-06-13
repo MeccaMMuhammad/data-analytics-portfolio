@@ -25,11 +25,3 @@ Wrote SQL queries to calculate open, click-through, and conversion rates
 Segmented customers by engagement levels
 
 Presented results using CTEs, CASE statements, and joins
-
-📘 4. Python Churn Prediction Model
-Cleaned and preprocessed telecom customer data
-
-Built a Random Forest classifier to predict churn
-
-Evaluated model with accuracy and feature importance analysis
-
